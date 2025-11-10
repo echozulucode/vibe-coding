@@ -6,7 +6,7 @@ The projects within this gallery are artifacts from working with and attempting 
 - Many of these are different technology stacks and types of applications that I am not an expert in and of different scope, as I navigate how to manage AI effectively.
 - The particularly interesting thing is now the end result, but the process to achieve desired results and related input and output artifacts.
 
-![](./images/6c6e26c8-ac10-469c-a45d-60e37b858969.png align="center")
+![](./images/6c6e26c8-ac10-469c-a45d-60e37b858969.png)
 
 ## Project Estimation Test
 
@@ -15,9 +15,9 @@ A demo Electron desktop application for creating and managing project estimates 
 - **Active Development Period** : October 5-8, 2025
 - **Lines of Code** : ~6,200+ lines
 
-![](./images/36873e50-fc03-42d1-999a-fd4e096f95a0.png align="center")
+![](./images/36873e50-fc03-42d1-999a-fd4e096f95a0.png)
 
-![](./images/fcda738a-8405-4939-acc9-c895ca56995e.png align="center")
+![](./images/fcda738a-8405-4939-acc9-c895ca56995e.png)
 
 **Technology Stack**
 
@@ -41,9 +41,9 @@ Behavior Pad is a ridiculously user-friendly Gherkin editor built with Electron,
 - **Current Version**: v0.3.0
 - **Status**: Production-ready with Windows installer; core features complete
 
-![](./images/944a391e-f5d5-40ad-b076-716ef5b7a0c6.png align="center")
+![](./images/944a391e-f5d5-40ad-b076-716ef5b7a0c6.png)
 
-![](./images/a8aff47d-1a60-4ef4-86df-53a1a85eb2e2.png align="center")
+![](./images/a8aff47d-1a60-4ef4-86df-53a1a85eb2e2.png)
 
 **Key Features**:
 
@@ -84,9 +84,9 @@ If you’re not familiar, LCARS (Library Computer Access and Retrieval System) i
 - **Lines of Code** : ~8,500+ lines
 - **Status** : Initial Demo Only
 
-![](./images/b9cfc88f-b5a5-4f37-8ac5-58002d7a7278.png align="center")
+![](./images/b9cfc88f-b5a5-4f37-8ac5-58002d7a7278.png)
 
-![](./images/050600f9-069b-448c-94b2-fdf415d68f84.png align="center")
+![](./images/050600f9-069b-448c-94b2-fdf415d68f84.png)
 
 **Technology Stack:**
 
@@ -130,13 +130,13 @@ _side-note_: I am not planning to open-source this one just in case.
 
 **Space Defender:** First 2D AI generated game for the engine
 
-![](./images/716e24c8-913c-4834-9565-0b0056034ccf.png align="center")
+![](./images/716e24c8-913c-4834-9565-0b0056034ccf.png)
 
 _Example small derisk demos_
 
-![](./images/0833eda1-ea26-4b37-8a55-020aef228a0a.gif align="center")
+![](./images/0833eda1-ea26-4b37-8a55-020aef228a0a.gif)
 
-![](./images/759fad2f-3235-4a6b-a64a-1fbefddc687e.gif align="center")
+![](./images/759fad2f-3235-4a6b-a64a-1fbefddc687e.gif)
 
 ## SimBlocks - ReactFlow Test
 
@@ -146,7 +146,7 @@ SimBlocks is a **real-time block diagram simulator** with a professional visual 
 - **Lines of Code**: ~4,150 lines (Rust: 2,506, TypeScript: 1,638, plus documentation)
 - **Status**: Visual editor demo complete
 
-![](./images/470a4660-9721-4617-bd52-a9583c7bb39a.png align="center")
+![](./images/470a4660-9721-4617-bd52-a9583c7bb39a.png)
 
 **Key Features**:
 
@@ -182,9 +182,9 @@ The FastAPI Intranet Application is a full-stack intranet web application templa
 - **Lines of Code**: ~32,400 lines (total across code, tests, documentation, and BDD features)
 - **Status**: Core functionality complete, CI/CD and production deployment pending
 
-![](./images/089c3dda-3abe-4d22-97cf-d86799487cac.png align="center")
+![](./images/089c3dda-3abe-4d22-97cf-d86799487cac.png)
 
-![](./images/52c052c5-3925-4556-a886-21dba21d2538.png align="center")
+![](./images/52c052c5-3925-4556-a886-21dba21d2538.png)
 
 **Key Features**:
 
@@ -216,7 +216,7 @@ This was created when I encountered some CLI agents were unable to read PDFs dir
 - Objectives: &lt;0.5s/page typical; &lt;10 dependencies; clear, testable pipeline
 - License: MIT only (no AGPL/ML/GPU)
 
-![](./images/0fa06b64-71f9-4694-a005-896f9e77d8ca.webp align="center")
+![](./images/0fa06b64-71f9-4694-a005-896f9e77d8ca.webp)
 
 Key Features
 
